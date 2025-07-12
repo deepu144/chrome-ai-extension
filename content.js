@@ -1,4 +1,4 @@
-console.log("LeetCode AI Translator content script loaded.");
+console.log("LeetCode AI Translator content script loaded. ");
 
 (function () {
     'use strict';
