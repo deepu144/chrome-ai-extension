@@ -3,7 +3,7 @@ console.log("LeetCode AI Translator content script loaded. ");
 (function () {
     'use strict';
     function createTranslationPanel(){
-        let panel = document.getElementById('translation-panel');
+         let panel = document.getElementById('translation-panel');
         if (!panel) {
             panel = document.createElement('div');
             panel.id = 'translation-panel';
