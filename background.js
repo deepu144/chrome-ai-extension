@@ -1,4 +1,4 @@
-const apiKey = "AIzaSyC7HWz7CCVw27gt-alPdOVZkmhoMscJrAM";
+const apiKey = "";
 const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
 
 // Listen for messages from content.js
